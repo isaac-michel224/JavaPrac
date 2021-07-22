@@ -19,3 +19,4 @@ public class Class721 {
         System.out.println(linked.toString());
         linked.set(4, 53);
         System.out.println(linked.toString());
+    }

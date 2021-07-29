@@ -1,4 +1,11 @@
 # JavaPrac
+
+
+
+Description: A folder containing projects I worked on in the Java language. 
+
+
+
 /*
 …or create a new repository on the command line
 echo "# JavaPrac" >> README.md
